@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite new">
+  <test thread-count="5" name="Test new">
+    <classes>
+      <class name="Testngexample.Annotations"/>
+      <class name="Testngexample.Annotation2"/>
+      <class name="Testngexample.Login"/>
+    </classes>
+  </test> <!-- Test new -->
+</suite> <!-- Suite new -->
